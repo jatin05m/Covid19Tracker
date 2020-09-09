@@ -2,7 +2,7 @@
   "name": "covid-19",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jatin05m.github.io/covid19Tracker",
+  "homepage": "http://jatin05m.github.io/Covid19Tracker",
   "engines": {
     "node": "14.9.0",
     "npm": "6.14.8"
